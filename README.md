@@ -1,2 +1,2 @@
-# Map
-Map Tempale
+# Docs
+Docs Tempale
